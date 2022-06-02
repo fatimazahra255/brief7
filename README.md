@@ -66,3 +66,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## présentation
 
 https://docs.google.com/document/d/19FBk_pd4N6FpMdGUylMwyI-jXygSqAxKrlU8rF2t4W0/edit
+
+## trello
+
+https://trello.com/b/JYJqkaYE/planification-pour-r%C3%A9alis%C3%A9-une-application-de-forum-news-it
+
